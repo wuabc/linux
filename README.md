@@ -1,8 +1,6 @@
 # linux
 
-17 物联网 《Linux系统管理》 课程教材：
-
-    http://www.ryjiaoyu.com/book/details/7513
+17 物联网 《Linux系统管理》 课程教材：http://www.ryjiaoyu.com/book/details/7513
 
 校内资源
 
