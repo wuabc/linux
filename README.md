@@ -16,3 +16,7 @@ BBS交流   http://172.24.21.84
 参考资料：
 
 1、鸟哥私房菜 http://linux.vbird.org
+
+2、Github 语法 
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+
