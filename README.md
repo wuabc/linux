@@ -4,7 +4,7 @@
 
 校内资源
 
-    1、课本ppt   http://172.24.21.84/tool/ppt/linux/课本ppt/
+    1、课本ppt http://172.24.21.84/tool/ppt/linux/课本ppt/
     
     2、BBS       http://172.24.21.84
     
