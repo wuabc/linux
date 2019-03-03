@@ -28,4 +28,8 @@ https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 6、sohu开源 http://mirrors.sohu.com
 
+7、ssh 客户端   Putty 下载  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+8、sftp客户端  filezilla https://filezilla-project.org
+
 
