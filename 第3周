@@ -1,0 +1,23 @@
+
+1.项目二  熟练使用linux命令
+
+目录操作：mkdir   rmdir
+
+文件操作：cp 、 mv (p.42)、rm、 rpm (p.45)
+
+2.公共练习场  172.24.21.97
+
+  以个人学号为目录名，在 /var/www/html 自建个人目录，至少建立1个网页、1张图片、1个目录（名字自取）
+  
+3. centos 7 网络设置
+
+     nmtui      参考：https://www.krizna.com/centos/setup-network-centos-7/
+      
+4. webmin 安装与使用
+
+   参考： 内网参考  http://172.24.21.84/tool/webmin安装.txt
+   
+          官网说明  http://webmin.com/rpm.html
+
+3. 项目十三 apache  （p.257)
+
