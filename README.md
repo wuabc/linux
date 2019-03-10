@@ -34,4 +34,6 @@ https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 8、sftp客户端  filezilla https://filezilla-project.org
 
+9、BtSync 文件同步 http://172.24.21.84/tool/BTSync.exe
+
 
