@@ -13,6 +13,8 @@ BBS交流   http://172.24.21.84
 
 软件资源  http://172.24.21.84/tool
 
+教学centos 7 虚拟机镜像 http://172.24.21.84/tool/docker-centos7-root-toor-v18.ova
+
 参考资料：
 
 1、鸟哥私房菜 http://linux.vbird.org
