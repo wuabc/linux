@@ -1,0 +1,15 @@
+
+1.在公共服务器上，新建1个lamp应用
+
+ 公共服务器 172.24.21.106
+
+apache  http://172.24.21.106
+
+phpmyadmin   http://172.24.21.106/phpmyadmin/
+
+Discuz 安装  https://github.com/wuabc/abc/wiki/discuz(bbs)
+
+http://172.24.21.106/20170101/upload/forum.php?mod=viewthread&tid=1&extra=page%3D1
+
+参考：应用系统部署  https://www.oschina.net/project/tags
+
