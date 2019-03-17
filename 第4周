@@ -18,3 +18,23 @@ discuz 安装包内网下载  http://172.24.21.84/tool/Discuz_X3.4_SC_UTF8.zip
 
 参考资源：应用系统部署  https://www.oschina.net/project/tags
 
+2.公共服务器上，新建用户的个人目录
+
+参考课本  p269 例13-9 用户个人主页
+
+php测试文件 phpinfo.php
+   <?php phpinfo(); ?>
+
+mysql数据库连接测试文件  dbtest.php
+<?php
+$con = mysql_connect("localhost","root","password");
+if (!$con)
+{
+die('Could not connect: ' . mysql_error());
+}
+else
+{
+echo "Congrats! connection established successfully";
+}
+mysql_close($con);
+?>
