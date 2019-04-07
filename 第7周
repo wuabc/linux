@@ -41,8 +41,17 @@ follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
   
 4.个人服务器完成lamp安装
 
- 虚拟机  http://172.24.21.84/tool/docker-centos7-root-toor-v18.ova
+虚拟机  http://172.24.21.84/tool/docker-centos7-root-toor-v18.ova
+
+参考： https://www.krizna.com/centos/install-lamp-server-centos-7/
+
+1）提供 <?php phpinfo(); ?>  运行结果截图
+2）提供http://serverIP/dbtest.php  运行结果截图
+
+5.个人服务器完成phpmyadmin安装
  
- 参考： https://www.krizna.com/centos/install-lamp-server-centos-7/
- 
- 
+ 参考：https://www.krizna.com/centos/install-phpmyadmin-centos-7/
+
+ 提供 http://serverIP/phpmyadmin  运行结果截图 
+
+签到贴：http://172.24.21.84/bbs/forum.php?mod=viewthread&tid=1066
