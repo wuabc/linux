@@ -18,7 +18,7 @@
   
   service httpd restart
   
- 2. 修改 httpd 默认页面
+ 2..公共服务器  172.24.21.115     修改 httpd 默认页面
  
  If you are the website administrator:
  
