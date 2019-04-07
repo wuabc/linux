@@ -1,5 +1,5 @@
 
-1.公共服务器  172.24.21.115
+1.公共服务器  172.24.21.115   （不支持  systemctl 命令，请采用 centos 6 版本的命令）
   安装 httpd   参考课本 p。259
   
   rpm  -q httpd
@@ -55,3 +55,5 @@ follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
  提供 http://serverIP/phpmyadmin  运行结果截图 
 
 签到贴：http://172.24.21.84/bbs/forum.php?mod=viewthread&tid=1066
+
+
