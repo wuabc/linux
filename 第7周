@@ -1,4 +1,31 @@
 
 1.公共服务器  172.24.21.115
+  安装 httpd   参考课本 p。259
+  
+  rpm  -q httpd
+  
+  yum clean all
+  
+  yum install httpd -y
+  
+  rpm -qa |grep httpd
+  
+  /etc/init.d/httpd start
+  
+  service httpd start
+  
+  service httpd stop
+  
+  service httpd restart
+  
+ 2. 修改 httpd 默认页面
+ 
+ If you are the website administrator:
+ 
+You may now add content to the directory /var/www/html/.
 
-2。
+Note that until you do so, people visiting your website will see this page and not your content. 
+
+To prevent this page from ever being used, 
+
+follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
