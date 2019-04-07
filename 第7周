@@ -29,3 +29,13 @@ Note that until you do so, people visiting your website will see this page and n
 To prevent this page from ever being used, 
 
 follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
+
+3.公共服务器  172.24.21.115 
+
+必做实验  p269 例13-9
+
+         p270 例13-10
+         
+  签到贴：http://172.24.21.84/bbs/forum.php?mod=viewthread&tid=1059
+  
+  
