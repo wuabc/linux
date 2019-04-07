@@ -52,6 +52,7 @@ follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
  
  参考：https://www.krizna.com/centos/install-phpmyadmin-centos-7/
  
+ 可能用到的链接： http://mirrors.163.com/centos/7/extras/x86_64/Packages/epel-release-7-11.noarch.rpm
  
  **解决 epel 问题  https://mirrors.tuna.tsinghua.edu.cn/help/epel/
  
