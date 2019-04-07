@@ -51,6 +51,10 @@ follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
 5.个人服务器完成phpmyadmin安装
  
  参考：https://www.krizna.com/centos/install-phpmyadmin-centos-7/
+ 
+ 
+ **解决 epel 问题  https://mirrors.tuna.tsinghua.edu.cn/help/epel/
+ 
 
  提供 http://serverIP/phpmyadmin  运行结果截图 
 
