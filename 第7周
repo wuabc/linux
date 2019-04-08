@@ -45,6 +45,15 @@ follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
 
 参考： https://www.krizna.com/centos/install-lamp-server-centos-7/
 
+      https://www.krizna.com/centos/setup-network-centos-7/
+
+参考命令：
+
+dhclient
+
+ip  addr
+
+
 1）提供 <?php phpinfo(); ?>  运行结果截图
 2）提供http://serverIP/dbtest.php  运行结果截图
 
