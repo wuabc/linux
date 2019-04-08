@@ -41,6 +41,10 @@ follow the instructions in the file /etc/httpd/conf.d/welcome.conf.
   
 4.个人服务器完成lamp安装
 
+BTSync Code: R5NZ46BB6R3IRQ5Z7Z2WMPFJGQ5TXGI3F  (20190408)
+
+BTSync http://172.24.21.84/tool/BTSync.exe
+
 虚拟机  http://172.24.21.84/tool/docker-centos7-root-toor-v18.ova
 
 参考： https://www.krizna.com/centos/install-lamp-server-centos-7/
