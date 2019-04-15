@@ -1,5 +1,12 @@
 
 
+1. linux 系统管理软件 webmin
+
+官网    http://webmin.com
+
+rpm 安装  http://webmin.com/rpm.html
+
+
 #安装辅助软件
 yum -y install perl perl-Net-SSLeay openssl perl-IO-Tty perl-Encode-Detect
 yum -y install perl-Digest-MD5
@@ -22,6 +29,8 @@ service        firewalld  status
 
 #访问webmin服务
 https://ip:10000
+
+2.linux dns 服务器   
 
 安装bind软件包     课本 p241 任务2  完成子任务1-4
 
