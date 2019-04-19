@@ -19,6 +19,8 @@ BBS交流   http://172.24.21.84
 
 1、鸟哥私房菜 http://linux.vbird.org
 
+linux基础    http://cn.linux.vbird.org/linux_basic/linux_basic.php
+
 2、Github 语法 
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
