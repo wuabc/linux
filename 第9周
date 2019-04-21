@@ -1,0 +1,25 @@
+
+
+项目十四 ftp服务器
+
+任务1： p282 部署vsftpd 服务器
+
+任务2： p282 公共文件夹 /var/ftp/pub
+
+建立ftp公共资源库
+
+
+任务3： p283 更改ftp端口（默认 tcp 21）
+
+任务4：p291  
+
+允许匿名登陆： anonymous_enable=YES
+
+新增： allow_writeable_chroot=YES
+
+
+作业回帖： http://172.24.21.84/bbs/forum.php?mod=viewthread&tid=1079
+
+1、提供任务2访问截图；
+
+2、提供任务4访问截图。
