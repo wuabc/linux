@@ -1,0 +1,37 @@
+
+项目三  用户和组
+
+一、配置文件
+/etc/passwd     p57
+
+/etc/shadow     p58
+
+/etc/group      p59
+
+/etc/gshadow    p59
+
+二、用户管理
+
+1. p60  su ,  whoami  , w   , who
+
+2. p61
+
+    useradd     例3-1
+    
+    passwd      例 3-2
+    
+    
+ 3.禁用、恢复用户
+ 
+ passwd  -l    
+ 
+ passwd  -u
+ 
+ 
+ usermod  -L
+ 
+ usermod  -U
+ 
+ 4. webmin
+ 
+ 
