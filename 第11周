@@ -17,6 +17,6 @@ getenforce
 
 4.添加公共目录    p217  例10-5
 
-借助webmin方便samba管理
+5.借助webmin方便samba管理
 
-
+http://172.24.21.84/tool/webmin安装.txt
