@@ -3,3 +3,20 @@
 
 ppt：  http://172.24.21.84/tool/ppt/linux/课本ppt/
 
+1。安装samba   p 210 子任务1 
+
+2. 管理samba   p 211  子任务 2
+
+getenforce
+
+setenforce 0
+
+getenforce
+
+3. samba 账号    p216 例10-4
+
+4.添加公共目录    p217  例10-5
+
+借助webmin方便samba管理
+
+
