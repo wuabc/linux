@@ -38,4 +38,5 @@ https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 9、BtSync 文件同步 http://172.24.21.84/tool/BTSync.exe
 
+10、快速上手几个 Linux 命令   https://www.infoq.cn/article/1_ZihxpNyw7gz3GzOaPy
 
