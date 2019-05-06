@@ -19,4 +19,17 @@ getenforce
 
 5.借助webmin方便samba管理
 
+    wget  http://172.24.21.84/tool/webmin-1.900-1.noarch.rpm
+
+    yum -y install perl perl-Net-SSLeay openssl perl-IO-Tty perl-Encode-Detect
+    
+    rpm -U  webmin-1.900-1.noarch.rpm
+    
+    
+    
 http://172.24.21.84/tool/webmin安装.txt
+
+
+作业提交：  http://172.24.21.84/bbs/forum.php?mod=viewthread&tid=1091
+
+
