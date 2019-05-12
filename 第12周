@@ -1,3 +1,4 @@
+一、DHCP服务器
 
 项目十一  dhcp服务器
 
@@ -17,8 +18,21 @@
 
 重点关注 /etc/dhcp/dhcpd.conf 配置文件
 
-dhcp服务器   配备2块网卡   , 网卡1 连接外网,借助webmin进行dhcp配置管理
-                                               网卡2 连接内部网络,用于提供dhcp服务
+dhcp服务器   配备2块网卡  
 
+    网卡1 连接外网,借助webmin进行dhcp配置管理
+    
+    网卡2 连接内部网络,用于提供dhcp服务
 
 dhcp客户机  配备1块网卡,网卡1连接内部网络,通过dhcp 获取 服务器分配的地址
+
+签到作业：提供dhcp服务器及客户端参数截图 
+
+二、基于 CentOS 搭建个人网盘
+
+   https://cloud.tencent.com/developer/labs/lab/10093
+   
+  签到作业：提供云盘访问界面及文件共享链接访问界面
+  
+
+
