@@ -1,0 +1,24 @@
+
+项目十一  dhcp服务器
+
+基础知识   课本 p223-225
+
+  yum install net-tools -y
+
+   arp   -n
+
+   arp   -a
+
+   arp  -a   172.24.83.254
+
+任务一  安装dhcp服务器   课本 p226
+
+完整练习  课本 p233
+
+重点关注 /etc/dhcp/dhcpd.conf 配置文件
+
+dhcp服务器   配备2块网卡   , 网卡1 连接外网,借助webmin进行dhcp配置管理
+                                               网卡2 连接内部网络,用于提供dhcp服务
+
+
+dhcp客户机  配备1块网卡,网卡1连接内部网络,通过dhcp 获取 服务器分配的地址
