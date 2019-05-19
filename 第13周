@@ -16,3 +16,11 @@ https://cloud.tencent.com/developer/labs/lab/10000
 
 https://cloud.tencent.com/developer/labs/lab/10171
 
+sudo firewall-cmd --zone=public --permanent --add-port=9000/tcp
+
+sudo firewall-cmd --reload    
+
+http://ip:9000
+
+
+
