@@ -3,3 +3,8 @@ sudo firewall-cmd --zone=public --permanent --add-port=10000/tcp
 
 sudo firewall-cmd --reload    
 
+
+
+Linux 基础入门   
+
+https://cloud.tencent.com/developer/labs/lab/10000
