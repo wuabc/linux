@@ -7,12 +7,12 @@ sudo firewall-cmd --reload
 
 
 
-Linux 基础入门   
+1、Linux 基础入门   
 
 https://cloud.tencent.com/developer/labs/lab/10000
 
 
-搭建个人 Leanote 云笔记本
+2、搭建个人 Leanote 云笔记本
 
 官网   https://leanote.com
 
@@ -23,6 +23,16 @@ sudo firewall-cmd --zone=public --permanent --add-port=9000/tcp
 sudo firewall-cmd --reload    
 
 http://ip:9000
+
+签到作业：请提供截图
+
+3、CenteOS 零基础安装 PHP + MySQL + Discuz
+
+https://cloud.tencent.com/developer/labs/lab/10397
+
+签到作业：请提供个人论坛发帖截图
+
+
 
 
 
