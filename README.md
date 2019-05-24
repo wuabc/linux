@@ -40,3 +40,7 @@ https://help.github.com/en/articles/basic-writing-and-formatting-syntax
 
 10、快速上手几个 Linux 命令   https://www.infoq.cn/article/1_ZihxpNyw7gz3GzOaPy
 
+11、Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集  https://github.com/jaywcjlove/linux-command
+
+
+
