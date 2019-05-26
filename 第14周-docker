@@ -69,7 +69,7 @@ docker start mybbs
  
  四、实验内容
  
- 第一个论坛
+ 第一个论坛 (必做)
 
 部署：
 docker run --name bbs4mysql -e MYSQL_ROOT_PASSWORD=toor -d -p 3306:3306 mysql:5
@@ -79,8 +79,7 @@ docker run --name mybbs --link bbs4mysql:mysql  -p 88:80  -d  skyzhou/docker-dis
 安装并访问
 http://ip:88
 
-第二个论坛
-
+第二个论坛（必做）
 
 部署：
 
@@ -91,13 +90,17 @@ docker run --name mybbs2  --link bbs4mysql2:mysql  -p 89:80  -d  skyzhou/docker-
 安装并访问
 http://ip:89
 
-mysql数据库管理系统 phpmyadmin： 
+mysql数据库管理系统 phpmyadmin：（必做） 
 
 docker run --name myadmin -d --link bbs4mysql2:db -p 8080:80 phpmyadmin/phpmyadmin
 
 http://ip:8080
  
+##期末实训题
 
+DNS 服务器 容器版： https://hub.docker.com/r/cosmicq/docker-bind/
+
+要求：实现上述3个网站的域名访问
 
 ** 实验所需images
  
