@@ -17,5 +17,24 @@
               
               https://hub.docker.com
               
+ 二、docker 基础环境设置
+
+dhclient     或 nmtui
+
+ip addr
+
+service docker status
+
+service docker start
+
+service docker status
+
+docker info
+
+docker ps
+
+docker ps -a
+
+docker run hello-world
               
  
