@@ -5,6 +5,15 @@
 已配置完成的docker ：http://172.24.21.84/tool/docker-centos7-root-toor-v18.ova
 账号：root  密码：toor
 
+ 可能需要的防火墙命令：
+ 
+ sudo firewall-cmd --zone=public --permanent --add-port=10000/tcp
+
+ sudo firewall-cmd --reload 
+
+setenforce
+
+getenforce
 
 
 一、容器技术 What、Why 和 How 三个问题:   http://www.cnblogs.com/CloudMan6/p/6751516.html
@@ -81,9 +90,37 @@ docker run --name mybbs2  --link bbs4mysql2:mysql  -p 89:80  -d  skyzhou/docker-
 
 安装并访问
 http://ip:89
+
+mysql数据库管理系统 phpmyadmin： 
+
+docker run --name myadmin -d --link bbs4mysql2:db -p 8080:80 phpmyadmin/phpmyadmin
+
+http://ip:8080
  
- ** 实验所需images
+
+
+** 实验所需images
  
- https://hub.docker.com/r/skyzhou/docker-discuz/
+ discuz 论坛容器版： https://hub.docker.com/r/skyzhou/docker-discuz/
+ 
+ phpmyadmin 数据库管理工具 容器版:  https://hub.docker.com/r/phpmyadmin/phpmyadmin
+      
+ DNS 服务器 容器版： https://hub.docker.com/r/cosmicq/docker-bind/
+
+ Nginx 容器版：     https://hub.docker.com/_/nginx/
+ 
+ https://hub.docker.com/_/registry
+ 
+ docker 常用命令 :  http://www.cnblogs.com/me115/p/5539047.html
+
+容器常用操作
+
+http://www.cnblogs.com/CloudMan6/p/6952115.html
+
+http://www.cnblogs.com/CloudMan6/p/6961665.html
+
+http://www.cnblogs.com/CloudMan6/p/6913993.html
+ 
+ 
  
  
