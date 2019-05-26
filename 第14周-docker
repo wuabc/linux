@@ -58,6 +58,29 @@ docker start mybbs
 显示镜像：  docker images
  
  
+ 四、实验内容
+ 
+ 第一个论坛
+
+部署：
+docker run --name bbs4mysql -e MYSQL_ROOT_PASSWORD=toor -d -p 3306:3306 mysql:5
+
+docker run --name mybbs --link bbs4mysql:mysql  -p 88:80  -d  skyzhou/docker-discuz
+
+安装并访问
+http://ip:88
+
+第二个论坛
+
+
+部署：
+
+docker run --name bbs4mysql2  -e MYSQL_ROOT_PASSWORD=toor -d  mysql:5
+
+docker run --name mybbs2  --link bbs4mysql2:mysql  -p 89:80  -d  skyzhou/docker-discuz
+
+安装并访问
+http://ip:89
  
  ** 实验所需images
  
