@@ -57,3 +57,10 @@ docker start mybbs
 
 显示镜像：  docker images
  
+ 
+ 
+ ** 实验所需images
+ 
+ https://hub.docker.com/r/skyzhou/docker-discuz/
+ 
+ 
