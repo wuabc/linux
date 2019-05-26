@@ -37,4 +37,23 @@ docker ps -a
 
 docker run hello-world
               
+
+三、容器维护
+
+docker ps
+
+docker ps -a
+
+docker stop mybbs
+
+docker start mybbs
+
+查看日志    docker logs -f  mybbs
+
+连接容器，进入命令行模式： docker exec -it mybbs  /bin/bash
+
+删除容器：  docker rm  mybbs
+
+
+显示镜像：  docker images
  
