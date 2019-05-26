@@ -1,0 +1,21 @@
+
+
+实验环境
+
+已配置完成的docker ：http://172.24.21.84/tool/docker-centos7-root-toor-v18.ova
+账号：root  密码：toor
+
+
+
+一、容器技术 What、Why 和 How 三个问题:   http://www.cnblogs.com/CloudMan6/p/6751516.html
+
+    自学：每天5分钟系列 ：  http://www.cnblogs.com/CloudMan6/tag/Docker/default.html   从末页开始阅读
+ 
+    官方文档：https://docs.docker.com/install/linux/docker-ce/centos/#prerequisites
+    
+              https://docs.docker.com
+              
+              https://hub.docker.com
+              
+              
+ 
