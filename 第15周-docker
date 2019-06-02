@@ -1,3 +1,14 @@
+ 可能需要的防火墙命令：
+ 
+ sudo firewall-cmd --zone=public --permanent --add-port=10000/tcp
+
+ sudo firewall-cmd --reload 
+
+setenforce
+
+getenforce
+
+
 
 1、Docker 组件如何协作
 
@@ -27,7 +38,13 @@ Dockerfile 构建镜像
 
 https://www.cnblogs.com/CloudMan6/p/6830067.html
 
-６、docker 管理工具  weave scope
+６、docker 管理工具  weave scope   （签到必做）
 
 https://www.cnblogs.com/CloudMan6/p/7655294.html
+
+7、showDoc 容器安装方案  （签到必做）
+
+https://www.showdoc.cc/help?page_id=65610
+
+
 
