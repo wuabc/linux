@@ -1,0 +1,30 @@
+
+1、Docker 组件如何协作
+
+https://www.cnblogs.com/CloudMan6/p/6774519.html
+
+2、最小的镜像
+
+https://www.cnblogs.com/CloudMan6/p/6788841.html
+
+3、base 镜像
+
+不同 Linux 发行版的区别主要就是 rootfs。
+
+https://www.cnblogs.com/CloudMan6/p/6799197.html
+
+http://7xo6kd.com1.z0.glb.clouddn.com/upload-ueditor-image-20170502-1493737075843061650.jpg
+
+4、镜像的分层结构
+
+https://www.cnblogs.com/CloudMan6/p/6806193.html
+
+5、构建镜像 
+
+https://www.cnblogs.com/CloudMan6/p/6821332.html
+
+Dockerfile 构建镜像
+
+https://www.cnblogs.com/CloudMan6/p/6830067.html
+
+
