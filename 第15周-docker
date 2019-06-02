@@ -1,4 +1,8 @@
- 可能需要的防火墙命令：
+
+
+
+可能需要的防火墙命令：
+
  
  sudo firewall-cmd --zone=public --permanent --add-port=10000/tcp
 
