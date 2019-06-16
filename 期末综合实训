@@ -1,8 +1,9 @@
 
-30分  ( 两人合作 )
 
 
-1、安装部署邮件服务器
+一、安全部署邮件服务器和DNS服务器
+
+1、安装部署邮件服务器ireadmail；
 
 https://docs.iredmail.org/install.iredmail.on.rhel.html
 
@@ -15,5 +16,24 @@ DNS 服务器 容器版： https://hub.docker.com/r/cosmicq/docker-bind/
 3、服务器的dns参数配置
 
 http://172.24.21.84/bbs/forum.php?mod=viewthread&tid=1106&extra=page%3D1
+
+二、实训要求
+1、本题30分，可以1-2人合作；
+
+2、请描述完整过程、提供必要截图，制作成为pdf文档
+
+提交的作业参考样式：
+
+（1）CenteOS 零基础安装 PHP + MySQL
+
+https://cloud.tencent.com/developer/labs/lab/10397
+
+（2）CVM 部署 CACTI 监控系统
+
+https://cloud.tencent.com/developer/labs/lab/10384
+
+3、请于2019年6月29日（星期六）22:00前将实训报告（pdf格式）发送到教师邮箱
+
+
 
 
