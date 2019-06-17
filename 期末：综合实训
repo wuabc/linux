@@ -13,6 +13,23 @@ https://docs.iredmail.org/install.iredmail.on.rhel.html
 
 https://docs.iredmail.org/install.iredmail.on.rhel-zh_CN.html
 
+######################## 2019-06-18 updated ##############################################
+
+系统安装可能涉及 epel 问题
+
+安装epel
+
+yum  install  -y  http://mirrors.163.com/centos/7/extras/x86_64/Packages/epel-release-7-11.noarch.rpm
+
+ **解决 epel 问题  https://mirrors.tuna.tsinghua.edu.cn/help/epel/
+ 
+ https://fedoraproject.org/wiki/EPEL#Quickstart
+ 
+ 可能用到的链接： http://mirrors.163.com/centos/7/extras/x86_64/Packages/epel-release-7-11.noarch.rpm
+ 
+######################################################################
+
+
 2、安装部署dns服务器
 
 DNS 服务器 容器版： https://hub.docker.com/r/cosmicq/docker-bind/
