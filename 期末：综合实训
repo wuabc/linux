@@ -29,6 +29,15 @@ yum  install  -y  http://mirrors.163.com/centos/7/extras/x86_64/Packages/epel-re
  
 ######################################################################
 
+下载并解压iredmail安装包
+
+wget  https://bitbucket.org/zhb/iredmail/downloads/iRedMail-0.9.9.tar.bz2
+
+yum install -y bzip2
+
+tar xjf iRedMail-x.y.z.tar.bz2
+
+
 
 2、安装部署dns服务器
 
