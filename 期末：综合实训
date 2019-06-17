@@ -1,9 +1,9 @@
 
 
 
-一、安全部署邮件服务器和DNS服务器
+一、安装部署邮件服务器和DNS服务器
 
-1、安装部署邮件服务器ireadmail；
+1、安装部署邮件服务器iredmail；
 
 https://docs.iredmail.org/install.iredmail.on.rhel.html
 
@@ -34,6 +34,8 @@ https://cloud.tencent.com/developer/labs/lab/10397
 https://cloud.tencent.com/developer/labs/lab/10384
 
 3、请于2019年6月29日（星期六）22:00前将实训报告（pdf格式）发送到教师邮箱，请注明专业学号(后3位)姓名，例如：2011级物联网134-马大哈-期末综合实训
+
+(邮箱： wuabc  @  139.COM )
 
 
 
